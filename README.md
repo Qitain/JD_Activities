@@ -1,8 +1,8 @@
 # JD_Activities
 
 | 活动名 | 路径 | 二维码/URL | 备注 |
-| -----| ---- | ---- | ---- |
-| 东东健康社区 | 搜“玩一玩”进入 | https://h5.m.jd.com/babelDiy/Zeus/D2CwCLVmaP3QonubWFJeTVhYRyT/index.html<br>![东东健康社区] |  |
+| :--:| :--: | :--: | :--: |
+| 东东健康社区 | 搜“玩一玩”进入 | ![东东健康社区]<br>https://h5.m.jd.com/babelDiy/Zeus/D2CwCLVmaP3QonubWFJeTVhYRyT/index.html |  |
 | 单元格 | 单元格 | 单元格 | 单元格 |
 
 
